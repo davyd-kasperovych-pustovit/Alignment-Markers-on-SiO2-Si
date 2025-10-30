@@ -15,7 +15,7 @@ This process is now adopted as the lab’s standard protocol for marker-chip fab
 **Fabrication Summary**
 
 Substrate: SiO₂/Si wafers (285 nm oxide layer)
-Metallization: Cr/Au (5 nm / 45 nm) via thermal evaporation
+Metallization: Cr/Au (5 nm / 50 nm) via thermal evaporation
 Resolution: ≤ 2 µm
 
 **Author Notes**
