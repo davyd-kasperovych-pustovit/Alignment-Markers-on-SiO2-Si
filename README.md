@@ -12,6 +12,7 @@ The project focuses on optimizing process steps to achieve high-fidelity Cr/Au a
 
 This process is now adopted as the lab’s standard protocol for marker-chip fabrication and serves as the foundation for subsequent device fabrication steps, including graphene and hBN stacking and superconducting device fabrication.
 
+For the final results, see Batches/Batch 4.
 **Fabrication Summary**
 
 Substrate: SiO₂/Si wafers (285 nm oxide layer)
